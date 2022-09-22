@@ -5,7 +5,7 @@ import sys
 
 
 def main():
-    """Run administrative tasks."""
+    """Run administrative tasks"""
 
     # When running in Azure, the WEBSITE_HOSTNAME environment variable is automatically set to
     # the URL of the app (e.g. msdocs-python-webapp-quickstart-123.azurewebsites.net)
